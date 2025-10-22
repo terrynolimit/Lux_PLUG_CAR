@@ -12,6 +12,7 @@ export default function Home() {
                 href="#about"
                 className="text-gray-600 hover:text-black transition-colors"
               >
+                
                 About Us
               </Link>
               <Link
